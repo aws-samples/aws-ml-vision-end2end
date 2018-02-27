@@ -8,7 +8,7 @@ This repository contains Jupyter Notebook tutorials for computer vision use-case
 * Deploy trained models to the Edge using AWS DeepLens.
 
 ## Tutorials Available
-* Image Classification: A level-101 Intro to Computer Vision with Deep Learning, this tutorial covers a very simple image classification task for traffic sign classification.
+* [Image Classification](https://github.com/aws-samples/aws-ml-vision-end2end/blob/master/Image_Classification/Image_Classification_Tutorial.ipynb): A level-101 Intro to Computer Vision with Deep Learning, this tutorial covers a very simple image classification task for traffic sign classification.
 
 ## Coming Soon
 * Transfer Learning
@@ -16,7 +16,7 @@ This repository contains Jupyter Notebook tutorials for computer vision use-case
 * Semantic Segmentation
 
 ## Data Sets Used
-* Traffic Sign Dataset - http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset#Imageformat 
+* [Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset#Imageformat) 
 
 ## License
 
